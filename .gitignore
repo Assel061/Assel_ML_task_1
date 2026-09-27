@@ -1,0 +1,5 @@
+.DS_Store
+.aselmuratbek_ML_task_1/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
